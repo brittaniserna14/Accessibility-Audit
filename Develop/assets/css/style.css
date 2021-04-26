@@ -82,7 +82,7 @@ footer h2 {
     background-size: cover;
     background-position: center;
 }
-/* styling for the section elements*/
+/* styling for the section elementsn including text lay out and images*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing{
     margin-bottom: 20px;
     padding: 50px;
@@ -91,7 +91,7 @@ footer h2 {
     background-color: #0072bb;
     color: #ffffff;
 }
-/**/
+
 .search-engine-optimization img,.online-reputation-management img, .social-media-marketing img{
     max-height: 200px;
 }
@@ -116,7 +116,8 @@ footer h2 {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* styling for section elements ends */
+/* styling for articles within aside element */
 .benefit-lead, .benefit-brand,.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -132,4 +133,4 @@ footer h2 {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* end of styling of aside elements*/
