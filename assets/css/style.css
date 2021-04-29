@@ -50,29 +50,6 @@ a {
 p {
     font-size: 16px;
 }
-/*styling for the aside element*/
-aside {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-/* styling for the footer begins. */ 
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
-/* styling for the footer ends.*/
 /* hero section styling.*/
 .hero {
     height: 800px;
@@ -82,7 +59,8 @@ footer h2 {
     background-size: cover;
     background-position: center;
 }
-/* styling for the section elementsn including text lay out and images*/
+
+/* styling for the section elements including text lay out and images*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing{
     margin-bottom: 20px;
     padding: 50px;
@@ -117,6 +95,18 @@ footer h2 {
     margin-left: 20px;
 }
 /* styling for section elements ends */
+
+/*styling for the aside element*/
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
 /* styling for articles within aside element */
 .benefit-lead, .benefit-brand,.benefit-cost {
     margin-bottom: 32px;
@@ -134,3 +124,15 @@ footer h2 {
     max-width: 150px;
 }
 /* end of styling of aside elements*/
+/* styling for the footer begins. */ 
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+/* styling for the footer ends.*/
